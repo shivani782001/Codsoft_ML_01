@@ -18,6 +18,7 @@ The trained model is used to predict the genres of movies in the test dataset, w
 The predicted genres are saved in a CSV file for evaluation and further analysis.
 
 Technologies Used:
+
 Python: For model building and data preprocessing.
 Logistic Regression: For multi-class classification.
 TF-IDF: For converting text data into numerical features.
